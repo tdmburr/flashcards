@@ -18,7 +18,7 @@ describe('Deck', () => {
     expect(Deck).to.be.a('function')
   })
 
-  it('should instantiate a new turn', () => {
+  it('should instantiate a new Deck', () => {
 
     expect(deck).to.be.instanceOf(Deck)
   })
