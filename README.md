@@ -4,6 +4,9 @@ A game called Flashcards was constructed that allowed the game to be played in t
 
 ### Project Preview:
 
+![Flashcards Preview](https://user-images.githubusercontent.com/109426263/227340491-108e065f-af6b-4061-8bf8-9785be5ec7e3.gif)
+
+
 ### Technology Used:
  1. VS Code
  2. Mocha Testing Frameworks
